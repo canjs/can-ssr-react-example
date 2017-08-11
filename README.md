@@ -1,13 +1,28 @@
-# can-ssr-react-example
+# react-app
 
-An example React app using can-ssr's asynchronous rendering capabilities.
+[![Join the chat at https://gitter.im/canjs/canjs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/canjs/canjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/canjs/react-app/blob/master/LICENSE.md)
+[![npm version](https://badge.fury.io/js/react-app.svg)](https://www.npmjs.com/package/react-app)
+[![Travis build status](https://travis-ci.org/canjs/react-app.svg?branch=master)](https://travis-ci.org/canjs/react-app)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/canjs/react-app?branch=master&svg=true)](https://ci.appveyor.com/project/matthewp/react-app)
+[![Coverage status](https://coveralls.io/repos/github/canjs/react-app/badge.svg?branch=master)](https://coveralls.io/github/canjs/react-app?branch=master)
+[![Greenkeeper badge](https://badges.greenkeeper.io/canjs/react-app.svg)](https://greenkeeper.io/)
 
-## Testing
+FAILED TO GET DESCRIPTION
 
-After cloning this repo run:
+## Documentation
 
-```
-npm install
-```
+Read the [API docs on CanJS.com](https://canjs.com/doc/react-app.html).
 
-Then look at `index.js` and run `node render`. Running the render script opens up the application and makes a request.
+## Changelog
+
+See the [latest releases on GitHub](https://github.com/canjs/react-app/releases).
+
+## Contributing
+
+The [contribution guide](https://github.com/canjs/react-app/blob/master/CONTRIBUTING.md) has information on getting help, reporting bugs, developing locally, and more.
+
+## License
+
+[MIT](https://github.com/canjs/react-app/blob/master/LICENSE.md)
+
