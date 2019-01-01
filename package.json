@@ -11,7 +11,7 @@
   "dependencies": {
     "can-react": "0.1.2",
     "can-ssr": "^0.11.0-pre.2",
-    "can-ssr-plugin-react": "^0.1.0",
+    "can-ssr-plugin-react": "^0.1.1",
     "detect-node": "^2.0.3",
     "fetchify": "0.0.2",
     "jquery": "^3.1.1",
