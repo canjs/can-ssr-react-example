@@ -15,7 +15,7 @@
     "detect-node": "^2.0.3",
     "fetchify": "0.0.2",
     "jquery": "^3.1.1",
-    "node-fetch": "^1.3.3",
+    "node-fetch": "^2.4.0",
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
     "steal": "^0.16.43",
